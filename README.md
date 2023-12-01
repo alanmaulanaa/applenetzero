@@ -6,4 +6,10 @@ By using Excel tools to see the structure of each dataset and exploratory analys
 - Year-over-Year Emission Growth
 - Emission Change by Industry
 - Carbon Footprint by Product
-- Revenue and Market Capitalization Growth
+- Revenue and Market Capitalization Growth  
+  #### <a href="https://github.com/alanmaulanaa/applenetzero/tree/main/datasets" />datasets</a>  
+  **data_dictionary.csv** *(Datasets metadata)*  
+  **greenhouse_gas_emissions.xlsx** *(Datasets after cleaning steps)*  
+  **carbon_footprint_by_product.csv**  
+  **greenhouse_gas_emissions.csv**     
+  **normalizing_factors.csv**
